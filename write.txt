@@ -1,0 +1,12 @@
+-- Fontes Utilizadas
+
+. ZCOOL KuaiLe
+
+
+-- Texto utilizado Login
+
+"Welcome to 64BiT!
+
+Here, games are our passion. Join our community to explore new worlds, challenge limits and connect with other passionate gamers like you.
+
+Get ready to dive into unforgettable adventures. The next level is just a click away. Join us now!"
